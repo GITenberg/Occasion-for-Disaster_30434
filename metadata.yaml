@@ -41,6 +41,8 @@ creator:
 description: A very small slip, at just the wrong place, can devastate any enterprise.
   One tiny transistor can go wrong ... and ruin a multi-million dollar missile. Which
   would be one way to stop the missiles ... (reprinted in 1963 as ""Supermind"".).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30434#Occasion-for-Disaster
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-11-09'
 gutenberg_type: Text
